@@ -1,0 +1,1 @@
+let wait = (mc) => new Promise((resolve) => setTimeout(resolve, mc))
